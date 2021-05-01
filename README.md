@@ -1,3 +1,3 @@
-# food_recipe
+# cookbook
 
-https://bahdah.github.io/food_recipe/
+https://bahdah.github.io/cookbook/
